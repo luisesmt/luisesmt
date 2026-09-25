@@ -29,4 +29,4 @@ I am a Master in Analytics and Artificial Intelligence (MAAI) student at ESMT Be
 * **Description:** [Brief 1-2 sentence description of the data pipeline or dashboard created.]
 
 ## 📫 Get in Touch
-* **Email:** [Your Professional Email Here]
+* **Email:** [luis.hernandez@esmt.berlin]
